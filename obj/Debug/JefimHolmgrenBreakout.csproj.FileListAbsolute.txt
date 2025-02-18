@@ -1,0 +1,100 @@
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\bin\Debug\JefimHolmgrenBreakout.exe.config
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\bin\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\bin\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\source\repos\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.pdb
+D:\C# Projects\JefimHolmgrenBreakout\bin\Debug\JefimHolmgrenBreakout.exe.config
+D:\C# Projects\JefimHolmgrenBreakout\bin\Debug\JefimHolmgrenBreakout.exe
+D:\C# Projects\JefimHolmgrenBreakout\bin\Debug\JefimHolmgrenBreakout.pdb
+D:\C# Projects\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+D:\C# Projects\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+D:\C# Projects\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+D:\C# Projects\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+D:\C# Projects\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+D:\C# Projects\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.exe
+D:\C# Projects\JefimHolmgrenBreakout\obj\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\bin\Debug\JefimHolmgrenBreakout.exe.config
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\bin\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\bin\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\obj\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion2\obj\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\bin\Debug\JefimHolmgrenBreakout.exe.config
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\bin\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\bin\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\obj\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion3\obj\Debug\JefimHolmgrenBreakout.pdb
+D:\Downloads\JefimHolmgrenBreakoutVersion\bin\Debug\JefimHolmgrenBreakout.exe.config
+D:\Downloads\JefimHolmgrenBreakoutVersion\bin\Debug\JefimHolmgrenBreakout.exe
+D:\Downloads\JefimHolmgrenBreakoutVersion\bin\Debug\JefimHolmgrenBreakout.pdb
+D:\Downloads\JefimHolmgrenBreakoutVersion\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+D:\Downloads\JefimHolmgrenBreakoutVersion\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+D:\Downloads\JefimHolmgrenBreakoutVersion\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+D:\Downloads\JefimHolmgrenBreakoutVersion\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+D:\Downloads\JefimHolmgrenBreakoutVersion\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+D:\Downloads\JefimHolmgrenBreakoutVersion\obj\Debug\JefimHolmgrenBreakout.exe
+D:\Downloads\JefimHolmgrenBreakoutVersion\obj\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\bin\Debug\JefimHolmgrenBreakout.exe.config
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\bin\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\bin\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.pdb
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\bin\Debug\JefimHolmgrenBreakout.exe.config
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\bin\Debug\JefimHolmgrenBreakout.exe
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\bin\Debug\JefimHolmgrenBreakout.pdb
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.exe
+D:\C# Projects\JefimHolmgrenBreakoutVersion5\obj\Debug\JefimHolmgrenBreakout.pdb
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.exe.config
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.exe
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.pdb
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.exe
+D:\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.exe.config
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.pdb
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csprojAssemblyReference.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.exe
+C:\Users\jefimhn\Desktop\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.pdb
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.exe.config
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.exe
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\bin\Debug\JefimHolmgrenBreakout.pdb
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csproj.AssemblyReference.cache
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.Form1.resources
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.Properties.Resources.resources
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csproj.GenerateResource.cache
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.csproj.CoreCompileInputs.cache
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.exe
+E:\Projects\C# Projects\JefimHolmgrenBreakoutVersion7\obj\Debug\JefimHolmgrenBreakout.pdb
