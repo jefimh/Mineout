@@ -14,8 +14,8 @@ A Windows Forms implementation of the classic Breakout game with a Minecraft twi
 
 ## 🎥 Demo
 
-<video autoplay loop muted playsinline>
-  <source src="/demo.mp4" type="video/mp4">
+<video autoplay loop playsinline>
+  <source src="demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
