@@ -14,16 +14,12 @@ A Windows Forms implementation of the classic Breakout game with a Minecraft twi
 
 ## 🎥 Demo
 
-<video autoplay loop playsinline>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](demo.gif)
 
 ## 🗂️ Project Structure
 
 The main game files are:
 
-JefimHolmgrenBreakout/
 - [Form1.cs](Form1.cs) - Main game logic and UI
 - [Player.cs](Player.cs) - Player class for score tracking
 - [Program.cs](Program.cs) - Application entry point

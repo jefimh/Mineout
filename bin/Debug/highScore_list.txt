@@ -1,1 +1,2 @@
-Jefim: 18
+Player2: 13
+Player1: 8
